@@ -39,7 +39,7 @@ Feel free to contribute by opening a pull request or an issue to add more papers
 
 ### Aspect-based Sentiment Analysis
 
-* **[ACL-2024]** [S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis](#link-to-paper)  
+* **[ACL-2024]** [S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis](https://aclanthology.org/2024.acl-long.721/)  
   Authors: Bingfeng Chen, Qihan Ouyang, Yongqi Luo, Boyan Xu, Ruichu Cai, Zhifeng Hao  
   Data:[[SemEval-2014 Task-4]](https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2)[[MAMS]](https://paperswithcode.com/dataset/mams)[[SemEval-2013 Task-2]](https://paperswithcode.com/dataset/semeval-2013-task-2)  
   [[code]](https://github.com/ouy7han/S2GSL)
