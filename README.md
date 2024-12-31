@@ -44,10 +44,17 @@ Feel free to contribute by opening a pull request or an issue to add more papers
   Data:[[SemEval-2014 Task-4]](https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2)[[MAMS]](https://paperswithcode.com/dataset/mams)[[SemEval-2013 Task-2]](https://paperswithcode.com/dataset/semeval-2013-task-2)  
   [[code]](https://github.com/ouy7han/S2GSL)
 
+* **[EMNLP-2021]** [To be Closer: Learning to Link up Aspects with Opinions](https://aclanthology.org/2021.emnlp-main.317/)
+  Authors: Yuxiang Zhou, Lejian Liao, Yang Gao, Zhanming Jie, Wei Lu
+  Data:[[SemEval-2014 Task-4]](https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2)
+  [[code]](https://github.com/zyxnlp/aclt)
+  
 * **[EMNLP|IJCNLP-2019]** [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://aclanthology.org/D19-1464/)  
   Authors: Chen Zhang, Qiuchi Li, Dawei Song  
   Data:[[SemEval-2014 Task-4]](https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2)  
   [[code]](https://github.com/GeneZC/ASGCN)
+
+
 
 ---
 
